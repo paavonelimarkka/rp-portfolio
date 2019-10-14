@@ -1,5 +1,5 @@
 # Django Framework portfolio exercise
 
-Let's learn some Python with Django
+**Exercise ready!** Will now review and study the code I've written and move on to my own project.
 
-Using this exercise: https://realpython.com/get-started-with-django-1/
+Used this exercise: https://realpython.com/get-started-with-django-1/
